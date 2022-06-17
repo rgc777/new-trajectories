@@ -1,16 +1,16 @@
 ---
 permalink: 'embed.js'
 ---
-const THEME_FOLDER_URL = "https://new-trajectories.netlify.app/assets/themes/"
+const THEME_FOLDER_URL = '{{ meta.url }}/assets/themes/'
 
 class WebringBanner extends HTMLElement {
 
     // lookup table for available themes
     themes = {
-      default: THEME_FOLDER_URL + "default.json",
-      dark: THEME_FOLDER_URL + "dark.json",
-      solarized: THEME_FOLDER_URL + "solarized.json",
-      ugly: THEME_FOLDER_URL + "ugly.json"
+      default: THEME_FOLDER_URL + 'default.json',
+      dark: THEME_FOLDER_URL + 'dark.json',
+      solarized: THEME_FOLDER_URL + 'solarized.json',
+      ugly: THEME_FOLDER_URL + 'ugly.json'
     }
 
     constructor() {
