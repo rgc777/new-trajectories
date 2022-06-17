@@ -3,6 +3,6 @@
     "description": "A Discordian webring inspired by the lives & ideas of Robert Anton Wilson.",
     "image": "NT_ICON_(BLUE).svg",
     "url": "https://new-trajectories.netlify.app",
-    "dataUrl": "https://new-trajectories.netlify.app/data/members.json",
+    "dataUrl": "https://new-trajectories.netlify.app/data/members_2.json",
     "repo": "https://github.com/rgc777/new-trajectories"
 }
