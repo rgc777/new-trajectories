@@ -1,6 +1,6 @@
 # New Trajectories
 
-A Discordian webring inspired by the lives & ideas of Robert Anton Wilson.
+A Discordian webring inspired by the lives & ideas of Robert Anton Wilson.<br>
 See https://new-trajectories.netlify.app/ for futher instructions.
 
 ## Contributions
