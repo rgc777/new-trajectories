@@ -1,14 +1,13 @@
-# Polyring
+# New Trajectories
 
-![Screenshot of the polyring website](/src/assets/images/screenshot.png)
-
-The retro-and-it's-cool-again webring for blogs and sites by current or past members of ETH Zurich.
-See https://polyring.ch for futher instructions.
+A Discordian webring inspired by the lives & ideas of Robert Anton Wilson.
+See https://new-trajectories.netlify.app/ for futher instructions.
 
 ## Contributions
 
-Contributions of any kind are welcome. Just open a PR with your idea / change. If it's a larger change, you might want to open an issue first.
+Contributions are most welcome! Send an email to RGC777@gmail.com
 
 ## Acknowledgements
 
-This repo is based off the code from [maxboeck/webring](https://github.com/maxboeck/webring/).
+This repo is based off the code from [maxboeck/webring](https://github.com/maxboeck/webring/)
+and from [XYQuadrat/polyring](https://github.com/XYQuadrat/polyring))
