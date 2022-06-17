@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Maybe Day",
+        "url": "https://maybeday.net/",
+        "feed": "https://maybeday.net/atom.xml"
+    },
+    {
+        "title": "Only Maybe",
+        "url": "http://maybelogic.blogspot.com/",
+        "feed": "https://maybelogic.blogspot.com/feeds/posts/default"
+    },
+    {
+        "title": "Weirdoverse",
+        "url": "https://weirdoverse.com/",
+        "feed": "https://weirdoverse.com/feed/"
+    }
+]
