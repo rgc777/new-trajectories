@@ -10,4 +10,4 @@ Contributions are most welcome! Send an email to RGC777@gmail.com
 ## Acknowledgements
 
 This repo is based off the code from [maxboeck/webring](https://github.com/maxboeck/webring/)
-and from [XYQuadrat/polyring](https://github.com/XYQuadrat/polyring))
+and [XYQuadrat/polyring](https://github.com/XYQuadrat/polyring)
