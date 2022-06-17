@@ -22,7 +22,7 @@ class WebringBanner extends HTMLElement {
         this.membercount = {{ members | length}};
         this.shadowObj = this.attachShadow({ mode: 'open' });
         
-        fetch('https://weirdcomix.com/data/members.json')
+        fetch('{{meta.dataUrl}}')
           .then(response => response.json())
           .then(sites => {
             const siteIndex = sites.findIndex(
