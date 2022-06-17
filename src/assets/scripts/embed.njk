@@ -4,8 +4,6 @@ permalink: 'embed.js'
 const THEME_FOLDER_URL = '{{ meta.url }}/assets/themes/'
 
 class WebringBanner extends HTMLElement {
-
-    // lookup table for available themes
     themes = {
       default: THEME_FOLDER_URL + 'default.json',
       dark: THEME_FOLDER_URL + 'dark.json',
@@ -50,7 +48,6 @@ class WebringBanner extends HTMLElement {
           :root {
             font-size: 100%;
           }
-
           :host {
             display: block;
             width: 100%;
@@ -64,20 +61,18 @@ class WebringBanner extends HTMLElement {
             border-radius: 8px;
             box-shadow: 0 2px 4px 0 rgba(14, 30, 37, 0.12);
             max-width: 480px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
           }
-
           .webring-banner a {
             color: var(--href-color, #7b16ff);
             text-decoration: none;
             transition: 0.5s ease;
           }
-
           .webring-banner a:hover,
           .webring-banner a:focus {
             color: var(--href-color-active, #6200e2);
             text-decoration: underline;
           }
-
           .webring-banner__header {
             display: flex;
             align-items: center;
@@ -86,13 +81,14 @@ class WebringBanner extends HTMLElement {
             padding: 1rem;
             border-bottom: 1px solid var(--inner-border-color, #DDD);
           }
-
+          .webring-banner__header svg {
+            stroke: var(--text-color, #000001);
+          }
           .webring-banner__description {
             flex: 1 0 0%;
             padding-right: 2rem;
             color: var(--text-color, #444);
           }
-
           .webring-banner__image {
             display: block;
             width: 70px;
@@ -100,24 +96,12 @@ class WebringBanner extends HTMLElement {
             margin-right: 1rem;
             border-radius: 50%;
           }
-
-          .webring-banner_text {
-            line-height:0%;
-            -inkscape-font-specification:'Comfortaa, Normal';
-            text-align:start
-            font-weight="400";
-            font-size="16.933";
-            font-family="Comfortaa";
-            letter-spacing="0" word-spacing="0";
-          }
-
           .webring-banner__title {
             margin: 0;
             font-size: 1.5rem;
             font-weight: bold;
             line-height: 1.2;
           }
-
           .webring-banner__info {
             display: flex;
             justify-content: center;
@@ -134,7 +118,6 @@ class WebringBanner extends HTMLElement {
             top: 1rem;
             right: 1rem;
           }
-
           .webring-banner__links {
             display: flex;
             flex-wrap: wrap;
@@ -142,17 +125,14 @@ class WebringBanner extends HTMLElement {
             padding: 1rem;
             margin: 0;
           }
-
           .webring-banner__link.a {
             display: block;
             text-decoration: none;
             color: var(--href-color, #00ad9f);
           }
-
           .webring-banner__link--next {
             text-align: right;
           }
-
           @media (min-width:400px) {
             .webring-banner__link {
                 min-width: 100px;
@@ -172,13 +152,13 @@ class WebringBanner extends HTMLElement {
             <div class="webring-banner__header">
               {{ "/src/assets/images/NT_ICON_(BLUE).svg" | svgContents("webring-banner__image") | safe }}              
               <div class="webring-banner__description">
-                <span>This site is part of the</span>
+                <span>This site is part of</span>
                 <h3 class="webring-banner__title">
                   <a href="${this.url}">${this.ringtitle}</a>
                 </h3>
                 <span>A webring with ${this.membercount} members</span>
               </div>
-              <a class="webring-banner__info" href="https://maybeday.net" title="What's this?">?</a>
+              <a class="webring-banner__info" href="https://en.wikipedia.org/wiki/Webring" title="What's this?">?</a>
             </div>
             <p class="webring-banner__links">
               <a 
