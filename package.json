@@ -1,12 +1,12 @@
 {
-  "name": "polyring",
+  "name": "new-trajectories",
   "version": "1.0.0",
-  "description": "A webring for ETHZ members, based on code by Max Böck",
-  "author": "Max Böck, adapted by xyquadrat",
+  "description": "A webring for Maybe Day",
+  "author": "Bobby Campbell, forked from Max Böck and xyquadrat",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/XYQuadrat/polyring"
+    "url": "http://github.com/rgc777/new-trajectories"
   },
   "scripts": {
     "start": "ELEVENTY_ENV=development eleventy --serve",
