@@ -7,7 +7,7 @@
         {
         "title": "The Robert Anton Wilson Trust",
         "url": "http://rawtrust.com/",
-        "feed": ""
+        "feed": "https://rawtrust.com/feed/"
     },
       {
         "title": "Jake Giddens",
@@ -17,11 +17,16 @@
     {
         "title": "Only Maybe",
         "url": "http://maybelogic.blogspot.com/?m=0",
+        "feed": "https://jakegiddens.substack.com/feed"
+    },
+        {
+        "title": "The Individuate Church",
+        "url": "https://kbupdikejr.wixsite.com/chrystalcity",
         "feed": ""
     },
     {
         "title": "Weirdoverse",
         "url": "https://weirdoverse.com",
-        "feed": ""
+        "feed": "https://weirdoverse.com/feed/"
     }
 ]
