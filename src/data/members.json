@@ -9,6 +9,16 @@
         "url": "http://rawtrust.com/",
         "feed": "https://rawtrust.com/feed/"
     },
+        {
+        "title": "RAW Illumination",
+        "url": "http://www.rawillumination.net/?m=0",
+        "feed": "http://www.rawillumination.net/feeds/posts/default?alt=rss"
+    },
+        {
+        "title": "Brenton Clutterbuck",
+        "url": "https://brentonclutterbuck.weebly.com/",
+        "feed": ""
+    },
       {
         "title": "Jake Giddens",
         "url": "https://jakegiddens.substack.com/p/maybe-day-2022-a-compilation-of-raw",
