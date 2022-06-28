@@ -14,6 +14,11 @@
         "url": "http://www.rawillumination.net/?m=0",
         "feed": "http://www.rawillumination.net/feeds/posts/default?alt=rss"
     },
+                {
+        "title": "Chapel Perilous",
+        "url": "https://chapelperilous.us/",
+        "feed": "https://chapelperilous.us/f.rss"
+    },
             {
         "title": "Deep Scratch",
         "url": "https://deepscratch.net/maybeday/",
@@ -37,6 +42,11 @@
         {
         "title": "The Individuate Church",
         "url": "https://kbupdikejr.wixsite.com/chrystalcity",
+        "feed": ""
+    },
+        {
+        "title": "Prop Anon",
+        "url": "https://www.prop-anon.com/",
         "feed": ""
     },
     {
