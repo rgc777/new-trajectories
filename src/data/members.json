@@ -19,6 +19,11 @@
         "url": "http://www.rawillumination.net/?m=0",
         "feed": "http://www.rawillumination.net/feeds/posts/default?alt=rss"
     },
+                    {
+        "title": "RAW experimental",
+        "url": "https://rawexperimental.wordpress.com/2022/07/17/maybe-day-2022/",
+        "feed": "https://rawexperimental.wordpress.com/feed/"
+    },
                 {
         "title": "Chapel Perilous",
         "url": "https://chapelperilous.us/",
