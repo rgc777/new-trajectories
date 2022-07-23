@@ -5,6 +5,11 @@
         "feed": ""
     },
         {
+        "title": "Weirdoverse",
+        "url": "https://www.weirdoverse.com/maybe-day/",
+        "feed": "https://weirdoverse.com/feed/"
+    },
+        {
         "title": "The Robert Anton Wilson Trust",
         "url": "http://rawtrust.com/",
         "feed": "https://rawtrust.com/feed/"
@@ -94,10 +99,5 @@
         "title": "Zach West",
         "url": "https://zachwesti2c2.com/",
         "feed": ""
-    },
-    {
-        "title": "Weirdoverse",
-        "url": "https://weirdoverse.com",
-        "feed": "https://weirdoverse.com/feed/"
     }
 ]
