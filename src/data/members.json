@@ -85,10 +85,15 @@
         "url": "https://www.zendrites.com/maybe-day",
         "feed": ""
        },
-        {
+            {
             "title": "Donald Dulchinos",
         "url": "https://donaldpeterdulchinos.medium.com/wilson-and-leary-and-graves-and-um-another-wilson-dd4f399675ab",
         "feed": ""
+       },
+        {
+            "title": " RAW breadcrumbs",
+        "url": "https://group.lt/c/raw",
+        "feed": "https://group.lt/feeds/c/raw.xml?sort=New"
        },
     {
         "title": "Reality Tunnels",
