@@ -22,7 +22,7 @@
 
                 {
         "title": "Weirdoverse",
-        "url": "https://www.weirdoverse.com/maybe-day/",
+        "url": "https://www.weirdoverse.com",
         "feed": "https://weirdoverse.com/feed/"
     },
                 {
@@ -33,7 +33,7 @@
 
                     {
         "title": "RAW Experimental",
-        "url": "https://rawexperimental.wordpress.com/2022/07/17/maybe-day-2022/",
+        "url": "https://rawexperimental.wordpress.com/2023/07/05/maybe-day-2023/",
         "feed": "https://rawexperimental.wordpress.com/feed/"
     },
                     {
@@ -48,7 +48,7 @@
     },
             {
         "title": "Deep Scratch",
-        "url": "https://deepscratch.net/maybeday/",
+        "url": "https://deepscratch.net",
         "feed": "https://deepscratch.net/feed/"
     },
             {
@@ -59,11 +59,6 @@
                 {
         "title": "Dreams of the Hare",
         "url": "https://iain26.medium.com/the-mystery-of-the-two-new-tarot-trumps-b275248076f8?sk=c1d514ee1aa48a9a9977693de504efd6",
-        "feed": ""
-    },
-            {
-        "title": "Eric Wagner",
-        "url": "http://zukofsky.blogspot.com/",
         "feed": ""
     },
         {
@@ -135,6 +130,11 @@
         {
         "title": "Prop Anon",
         "url": "https://www.prop-anon.com/",
+        "feed": ""
+    },
+                        {
+        "title": "Eric Wagner",
+        "url": "http://zukofsky.blogspot.com/",
         "feed": ""
     },
             {
