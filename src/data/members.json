@@ -9,6 +9,11 @@
         "url": "http://rawilsonfans.org/",
         "feed": ""
     },
+                {
+        "title": "Tales of Illuminatus!",
+        "url": "https://talesofilluminatus.com/",
+        "feed": ""
+    },
     {
         "title": "Maybe Day",
         "url": "https://www.maybeday.net",
@@ -36,61 +41,13 @@
         "url": "https://rawexperimental.wordpress.com/2023/07/05/maybe-day-2023/",
         "feed": "https://rawexperimental.wordpress.com/feed/"
     },
-                    {
-        "title": "Mondo 2000",
-        "url": "https://www.mondo2000.com",
-        "feed": "http://www.mondo2000.com/feed/"
-    },
-                {
-        "title": "Chapel Perilous",
-        "url": "https://chapelperilous.us/",
-        "feed": "https://chapelperilous.us/f.rss"
-    },
-            {
-        "title": "Deep Scratch",
-        "url": "https://deepscratch.net",
-        "feed": "https://deepscratch.net/feed/"
-    },
-            {
-        "title": "The Oz Mix",
-        "url": "https://oz-mix.blogspot.com/",
-        "feed": "http://feeds.feedburner.com/TheOzMix"
-    },
-                {
-        "title": "Dreams of the Hare",
-        "url": "https://iain26.medium.com/the-mystery-of-the-two-new-tarot-trumps-b275248076f8?sk=c1d514ee1aa48a9a9977693de504efd6",
-        "feed": ""
-    },
-        {
-        "title": "Brenton Clutterbuck",
-        "url": "https://brentonclutterbuck.weebly.com/",
-        "feed": ""
-    },
-                                    {
-        "title": "Eva David",
-        "url": "https://evadavid.substack.com/",
-        "feed": "https://evadavid.substack.com//feed/"
-    },
-                        {
-        "title": "Joseph Matheny",
-        "url": "https://josephmatheny.com/",
-        "feed": "https://josephmatheny.com/feed/"
-    },
-                {
+
+    {
         "title": "Jechidah",
         "url": "https://dovestamemoria.blogspot.com/",
         "feed": "https://dovestamemoria.blogspot.com/feeds/posts/default"
     },
-     {
-        "title": "Q.G. Pennyworth",
-        "url": "https://qgpennyworth.com/",
-        "feed": "https://qgpennyworth.com/feed/"
-    },
-      {
-        "title": "Jake Giddens",
-        "url": "https://outofdarkness.substack.com/p/eecb460f-a4f9-46c6-9216-2ebe3805e688",
-        "feed": "https://outofdarkness.substack.com/feed"
-    },
+
           {
         "title": "Leosaysays",
         "url": "https://www.leosaysays.com/new-trajectories",
@@ -101,11 +58,7 @@
         "url": "https://www.zendrites.com/maybe-day",
         "feed": ""
        },
-            {
-            "title": "Donald Dulchinos",
-        "url": "https://donaldpeterdulchinos.medium.com/wilson-and-leary-and-graves-and-um-another-wilson-dd4f399675ab",
-        "feed": ""
-       },
+
         {
             "title": " RAW breadcrumbs",
         "url": "https://group.lt/c/raw",
@@ -127,21 +80,8 @@
         "url": "https://www.sitwithit.net/8circuityogablog/2022/6/13/network",
         "feed": "https://www.sitwithit.net/8circuityogablog?format=rss"
     },
-        {
-        "title": "Individuate Church",
-        "url": "https://kbupdikejr.wixsite.com/chrystalcity",
-        "feed": ""
-    },
-        {
-        "title": "Prop Anon",
-        "url": "https://www.prop-anon.com/",
-        "feed": ""
-    },
-                        {
-        "title": "Eric Wagner",
-        "url": "http://zukofsky.blogspot.com/",
-        "feed": ""
-    },
+
+
             {
         "title": "Zach West",
         "url": "https://zachwesti2c2.com/",
