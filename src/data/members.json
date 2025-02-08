@@ -39,11 +39,6 @@
         "feed": "https://weirdoverse.com/feed/"
     },
 
-        {
-            "title": " RAW breadcrumbs",
-        "url": "https://group.lt/c/raw",
-        "feed": "https://group.lt/feeds/c/raw.xml?sort=New"
-       },
     {
         "title": "Reality Tunnels",
         "url": "http://realitytunnels.co/",
