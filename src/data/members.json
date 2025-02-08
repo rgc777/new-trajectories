@@ -9,14 +9,16 @@
         "url": "http://rawilsonfans.org/",
         "feed": ""
     },
-                {
-        "title": "Tales of Illuminatus!",
-        "url": "https://talesofilluminatus.com/",
-        "feed": ""
-    },
+
     {
         "title": "Maybe Day",
         "url": "https://www.maybeday.net",
+        "feed": ""
+    },
+
+                            {
+        "title": "Tales of Illuminatus!",
+        "url": "https://talesofilluminatus.com/",
         "feed": ""
     },
                 {
