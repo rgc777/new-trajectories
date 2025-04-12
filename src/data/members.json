@@ -29,14 +29,20 @@
     },
 
                 {
-        "title": "ONLY MAYBE",
-        "url": "http://maybelogic.blogspot.com/",
-        "feed": "http://maybelogic.blogspot.com/feeds/posts/default"
+        "title": "TESTAMENT Reading Group",
+        "url": "https://testament-reading-group.neocities.org/",
+        "feed": ""
     },
                 {
         "title": "Jechidah",
         "url": "https://dovestamemoria.blogspot.com/",
         "feed": "https://dovestamemoria.blogspot.com/feeds/posts/default"
+    },
+
+                  {
+        "title": "ONLY MAYBE",
+        "url": "http://maybelogic.blogspot.com/",
+        "feed": "http://maybelogic.blogspot.com/feeds/posts/default"
     },
 
                 {
