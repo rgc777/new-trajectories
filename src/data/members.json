@@ -78,5 +78,11 @@
         "title": "Zach West",
         "url": "https://zachwesti2c2.com/",
         "feed": ""
+    },
+
+            {
+        "title": "Antarctica Starts Here",
+        "url": "https://drwho.virtadpt.net/",
+        "feed": "https://drwho.virtadpt.net/rss/feed.xml"
     }
 ]
